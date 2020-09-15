@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="184636" started-at="2020-09-15T20:18:47 IST" finished-at="2020-09-15T20:21:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="184636" started-at="2020-09-15T20:18:47 IST" finished-at="2020-09-15T20:21:52 IST">
+      <class name="com.autodisk.flighttest.FlightsTest">
+        <test-method status="PASS" signature="LunchBrowser()[pri:0, instance:com.autodisk.flighttest.FlightsTest@56aac163]" name="LunchBrowser" is-config="true" duration-ms="21413" started-at="2020-09-15T20:18:47 IST" finished-at="2020-09-15T20:19:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LunchBrowser -->
+        <test-method status="PASS" signature="conformbm()[pri:0, instance:com.autodisk.flighttest.FlightsTest@56aac163]" name="conformbm" is-config="true" duration-ms="18399" started-at="2020-09-15T20:19:09 IST" finished-at="2020-09-15T20:19:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conformbm -->
+        <test-method status="PASS" signature="BookFligts()[pri:0, instance:com.autodisk.flighttest.FlightsTest@56aac163]" name="BookFligts" duration-ms="144365" started-at="2020-09-15T20:19:28 IST" finished-at="2020-09-15T20:21:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFligts -->
+        <test-method status="PASS" signature="closebm()[pri:0, instance:com.autodisk.flighttest.FlightsTest@56aac163]" name="closebm" is-config="true" duration-ms="1" started-at="2020-09-15T20:21:52 IST" finished-at="2020-09-15T20:21:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebm -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.autodisk.flighttest.FlightsTest@56aac163]" name="closebrowser" is-config="true" duration-ms="1" started-at="2020-09-15T20:21:52 IST" finished-at="2020-09-15T20:21:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.autodisk.flighttest.FlightsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
